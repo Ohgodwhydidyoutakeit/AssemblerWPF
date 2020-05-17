@@ -1,0 +1,13 @@
+C:\Users\Ohgodwhy\Desktop\sesja letnia 2020\assembler\kuba-janiec\assembler\bin\Release\assembler.exe.config
+C:\Users\Ohgodwhy\Desktop\sesja letnia 2020\assembler\kuba-janiec\assembler\bin\Release\assembler.exe
+C:\Users\Ohgodwhy\Desktop\sesja letnia 2020\assembler\kuba-janiec\assembler\bin\Release\assembler.pdb
+C:\Users\Ohgodwhy\Desktop\sesja letnia 2020\assembler\kuba-janiec\assembler\obj\Release\MainWindow.g.cs
+C:\Users\Ohgodwhy\Desktop\sesja letnia 2020\assembler\kuba-janiec\assembler\obj\Release\App.g.cs
+C:\Users\Ohgodwhy\Desktop\sesja letnia 2020\assembler\kuba-janiec\assembler\obj\Release\assembler_MarkupCompile.cache
+C:\Users\Ohgodwhy\Desktop\sesja letnia 2020\assembler\kuba-janiec\assembler\obj\Release\assembler_MarkupCompile.lref
+C:\Users\Ohgodwhy\Desktop\sesja letnia 2020\assembler\kuba-janiec\assembler\obj\Release\MainWindow.baml
+C:\Users\Ohgodwhy\Desktop\sesja letnia 2020\assembler\kuba-janiec\assembler\obj\Release\assembler.g.resources
+C:\Users\Ohgodwhy\Desktop\sesja letnia 2020\assembler\kuba-janiec\assembler\obj\Release\assembler.Properties.Resources.resources
+C:\Users\Ohgodwhy\Desktop\sesja letnia 2020\assembler\kuba-janiec\assembler\obj\Release\assembler.csproj.GenerateResource.cache
+C:\Users\Ohgodwhy\Desktop\sesja letnia 2020\assembler\kuba-janiec\assembler\obj\Release\assembler.exe
+C:\Users\Ohgodwhy\Desktop\sesja letnia 2020\assembler\kuba-janiec\assembler\obj\Release\assembler.pdb
